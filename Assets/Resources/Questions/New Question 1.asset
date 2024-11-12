@@ -12,12 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa9fb4c0feea40b498013d1a2e0f80cb, type: 3}
   m_Name: New Question 1
   m_EditorClassIdentifier: 
-  _info: 2+2=
+  _info: "How much of Earth\u2019s surface is covered by water?"
   _answers:
-  - _info: a
+  - _info: A) 50%
     _isCorrect: 0
-  - _info: v
+  - _info: B) 60%
+    _isCorrect: 0
+  - _info: C) 70%
     _isCorrect: 1
+  - _info: D) 80%
+    _isCorrect: 0
   _useTimer: 1
   _timer: 10
   _answerType: 1

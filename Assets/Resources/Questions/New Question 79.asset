@@ -10,29 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: aa9fb4c0feea40b498013d1a2e0f80cb, type: 3}
-  m_Name: New Question
+  m_Name: New Question 79
   m_EditorClassIdentifier: 
-  _info: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  _info: "What is the main reason Mercury\u2019s surface has so many craters?"
   _answers:
-  - _info: a
+  - _info: A) Volcanic activity
+    _isCorrect: 0
+  - _info: B) Lack of atmosphere
     _isCorrect: 1
-  - _info: v
+  - _info: C) Strong winds
     _isCorrect: 0
-  - _info: v
-    _isCorrect: 0
-  - _info: v
-    _isCorrect: 0
-  - _info: v
-    _isCorrect: 0
-  - _info: v
-    _isCorrect: 0
-  - _info: v
-    _isCorrect: 0
-  - _info: v
-    _isCorrect: 0
-  - _info: v
-    _isCorrect: 0
-  - _info: v
+  - _info: D) Earthquakes
     _isCorrect: 0
   _useTimer: 1
   _timer: 10
