@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "What is the name of Neptune\u2019s largest moon?"
   _answers:
-  - _info: A) Titan
+  - _info: Titan
     _isCorrect: 0
-  - _info: B) Phobos
+  - _info: Phobos
     _isCorrect: 0
-  - _info: C) Europa
+  - _info: Europa
     _isCorrect: 0
-  - _info: D) Triton
+  - _info: Triton
     _isCorrect: 1
   _useTimer: 1
   _timer: 10

@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: What color does Uranus appear to be?
   _answers:
-  - _info: A) Red
+  - _info: Red
     _isCorrect: 0
-  - _info: B) Blue-green
+  - _info: Blue-green
     _isCorrect: 1
-  - _info: C) Yellow
+  - _info: Yellow
     _isCorrect: 0
-  - _info: D) White
+  - _info: White
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

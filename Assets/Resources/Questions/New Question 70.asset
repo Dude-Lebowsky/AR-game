@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: What phenomenon occurs when the Moon passes between the Earth and the Sun?
   _answers:
-  - _info: A) Solar eclipse
+  - _info: Solar eclipse
     _isCorrect: 1
-  - _info: B) Lunar eclipse
+  - _info: Lunar eclipse
     _isCorrect: 0
-  - _info: C) Solstice
+  - _info: Solstice
     _isCorrect: 0
-  - _info: D) Equinox
+  - _info: Equinox
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

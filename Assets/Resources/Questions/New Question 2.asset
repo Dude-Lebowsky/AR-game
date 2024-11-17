@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: How long does it take for Earth to complete one orbit around the Sun?
   _answers:
-  - _info: A) 24 hours
+  - _info: 24 hours
     _isCorrect: 0
-  - _info: B) 30 days
+  - _info: 30 days
     _isCorrect: 0
-  - _info: C) 365 days
+  - _info: 365 days
     _isCorrect: 1
-  - _info: D) 687 days
+  - _info: 687 days
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: How many rings does Saturn have in total?
   _answers:
-  - _info: A) 3
+  - _info: 3
     _isCorrect: 0
-  - _info: B) 5
+  - _info: 5
     _isCorrect: 0
-  - _info: C) 7
+  - _info: 7
     _isCorrect: 1
-  - _info: D) 9
+  - _info: 9
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

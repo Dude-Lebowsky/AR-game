@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: What was the first spacecraft to visit Neptune?
   _answers:
-  - _info: A) Apollo 11
+  - _info: Apollo 11
     _isCorrect: 0
-  - _info: B) Voyager 2
+  - _info: Voyager 2
     _isCorrect: 1
-  - _info: C) Hubble Space Telescope
+  - _info: Hubble Space Telescope
     _isCorrect: 0
-  - _info: D) Galileo
+  - _info: Galileo
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

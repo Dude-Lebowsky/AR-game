@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "What is the primary gas in Mars\u2019 atmosphere?"
   _answers:
-  - _info: A) Oxygen
+  - _info: Oxygen
     _isCorrect: 0
-  - _info: B) Nitrogen
+  - _info: Nitrogen
     _isCorrect: 0
-  - _info: C) Carbon dioxide
+  - _info: Carbon dioxide
     _isCorrect: 1
-  - _info: D) Methane
+  - _info: Methane
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

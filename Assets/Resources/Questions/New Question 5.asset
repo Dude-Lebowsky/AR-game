@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "What is the shape of Earth\u2019s orbit around the Sun?"
   _answers:
-  - _info: A) Circular
+  - _info: Circular
     _isCorrect: 0
-  - _info: B) Elliptical
+  - _info: Elliptical
     _isCorrect: 1
-  - _info: C) Square
+  - _info: Square
     _isCorrect: 0
-  - _info: D) Triangular
+  - _info: Triangular
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

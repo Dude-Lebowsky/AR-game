@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: Which gas gives Neptune its blue color?
   _answers:
-  - _info: A) Hydrogen
+  - _info: Hydrogen
     _isCorrect: 0
-  - _info: B) Helium
+  - _info: Helium
     _isCorrect: 0
-  - _info: C) Methane
+  - _info: Methane
     _isCorrect: 1
-  - _info: D) Oxygen
+  - _info: Oxygen
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

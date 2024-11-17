@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: How many moons does Neptune have?
   _answers:
-  - _info: A) 5
+  - _info: 5
     _isCorrect: 0
-  - _info: B) 10
+  - _info: 10
     _isCorrect: 0
-  - _info: C) 14
+  - _info: 14
     _isCorrect: 1
-  - _info: D) 27
+  - _info: 27
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

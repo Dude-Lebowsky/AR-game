@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: Which element gives Uranus its blue-green color?
   _answers:
-  - _info: A) Hydrogen
+  - _info: Hydrogen
     _isCorrect: 0
-  - _info: B) Helium
+  - _info: Helium
     _isCorrect: 0
-  - _info: C) Methane
+  - _info: Methane
     _isCorrect: 1
-  - _info: D) Ammonia
+  - _info: Ammonia
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

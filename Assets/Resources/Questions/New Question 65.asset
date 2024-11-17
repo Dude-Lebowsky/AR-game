@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: What type of star is the Sun classified as?
   _answers:
-  - _info: A) Red Dwarf
+  - _info: Red Dwarf
     _isCorrect: 0
-  - _info: B) White Dwarf
+  - _info: White Dwarf
     _isCorrect: 0
-  - _info: C) Yellow Dwarf
+  - _info: Yellow Dwarf
     _isCorrect: 1
-  - _info: D) Blue Giant
+  - _info: Blue Giant
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

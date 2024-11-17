@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "Jupiter\u2019s rings are mainly composed of:"
   _answers:
-  - _info: A) Dust particles
+  - _info: Dust particles
     _isCorrect: 1
-  - _info: B) Ice crystals
+  - _info: Ice crystals
     _isCorrect: 0
-  - _info: C) Rock fragments
+  - _info: Rock fragments
     _isCorrect: 0
-  - _info: D) Gas clouds
+  - _info: Gas clouds
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

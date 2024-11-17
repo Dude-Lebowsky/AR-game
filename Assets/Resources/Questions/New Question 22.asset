@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: Jupiter is primarily made up of which two elements?
   _answers:
-  - _info: A) Hydrogen and helium
+  - _info: Hydrogen and helium
     _isCorrect: 1
-  - _info: B) Carbon and oxygen
+  - _info: Carbon and oxygen
     _isCorrect: 0
-  - _info: C) Water and ice
+  - _info: Water and ice
     _isCorrect: 0
-  - _info: D) Iron and nickel
+  - _info: Iron and nickel
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

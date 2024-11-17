@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: What is the average temperature on Uranus?
   _answers:
-  - _info: "A) -50\xB0C"
+  - _info: "-50\xB0C"
     _isCorrect: 0
-  - _info: "B) -100\xB0C"
+  - _info: "-100\xB0C"
     _isCorrect: 0
-  - _info: "C) -224\xB0C"
+  - _info: "-224\xB0C"
     _isCorrect: 1
-  - _info: "D) -300\xB0C"
+  - _info: "-300\xB0C"
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

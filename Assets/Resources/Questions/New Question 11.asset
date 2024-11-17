@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "Which planet is known as the \u201CRed Planet\u201D?"
   _answers:
-  - _info: A) Venus
+  - _info: Venus
     _isCorrect: 0
-  - _info: B) Mars
+  - _info: Mars
     _isCorrect: 1
-  - _info: C) Jupiter
+  - _info: Jupiter
     _isCorrect: 0
-  - _info: D) Saturn
+  - _info: Saturn
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

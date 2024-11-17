@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "How long is a day on Saturn compared to Earth\u2019s day?"
   _answers:
-  - _info: A) 24 hours
+  - _info: 24 hours
     _isCorrect: 0
-  - _info: B) 10.7 hours
+  - _info: 10.7 hours
     _isCorrect: 1
-  - _info: C) 15 hours
+  - _info: 15 hours
     _isCorrect: 0
-  - _info: D) 30 hours
+  - _info: 30 hours
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "What is the most notable feature of Mercury\u2019s surface?"
   _answers:
-  - _info: A) Volcanoes
+  - _info: Volcanoes
     _isCorrect: 0
-  - _info: B) Ice caps
+  - _info: Ice caps
     _isCorrect: 0
-  - _info: C) Craters
+  - _info: Craters
     _isCorrect: 1
-  - _info: D) Oceans
+  - _info: Oceans
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

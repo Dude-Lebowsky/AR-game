@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: What is the temperature like on Saturn?
   _answers:
-  - _info: "A) 0\xB0C"
+  - _info: "0\xB0C"
     _isCorrect: 0
-  - _info: "B) -100\xB0C"
+  - _info: "-100\xB0C"
     _isCorrect: 0
-  - _info: "C) -178\xB0C"
+  - _info: "-178\xB0C"
     _isCorrect: 1
-  - _info: "D) -273\xB0C"
+  - _info: "-273\xB0C"
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

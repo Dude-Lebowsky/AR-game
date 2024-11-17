@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: Which of the following missions explored Jupiter?
   _answers:
-  - _info: A) Apollo
+  - _info: Apollo
     _isCorrect: 0
-  - _info: B) Hubble
+  - _info: Hubble
     _isCorrect: 0
-  - _info: C) Juno
+  - _info: Juno
     _isCorrect: 1
-  - _info: D) Cassini
+  - _info: Cassini
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

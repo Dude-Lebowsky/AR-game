@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: What mineral gives Mars its red color?
   _answers:
-  - _info: A) Iron oxide
+  - _info: Iron oxide
     _isCorrect: 1
-  - _info: B) Copper
+  - _info: Copper
     _isCorrect: 0
-  - _info: C) Nickel
+  - _info: Nickel
     _isCorrect: 0
-  - _info: D) Silicon
+  - _info: Silicon
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

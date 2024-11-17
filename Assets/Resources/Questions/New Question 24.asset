@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: How many moons does Jupiter have?
   _answers:
-  - _info: A) 4
+  - _info: 4
     _isCorrect: 0
-  - _info: B) 10
+  - _info: 10
     _isCorrect: 0
-  - _info: C) 53 confirmed, 79 total
+  - _info: 53 confirmed, 79 total
     _isCorrect: 1
-  - _info: D) 79 confirmed
+  - _info: 79 confirmed
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

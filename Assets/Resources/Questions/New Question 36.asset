@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "Saturn\u2019s density is:"
   _answers:
-  - _info: "A) Higher than Earth\u2019s"
+  - _info: "Higher than Earth\u2019s"
     _isCorrect: 0
-  - _info: "B) Equal to Earth\u2019s"
+  - _info: "Equal to Earth\u2019s"
     _isCorrect: 0
-  - _info: "C) Lower than water\u2019s"
+  - _info: "Lower than water\u2019s"
     _isCorrect: 1
-  - _info: "D) Higher than iron\u2019s"
+  - _info: "Higher than iron\u2019s"
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

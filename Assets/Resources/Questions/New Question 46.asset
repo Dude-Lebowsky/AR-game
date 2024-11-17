@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: Who discovered Uranus?
   _answers:
-  - _info: A) Galileo Galilei
+  - _info: Galileo Galilei
     _isCorrect: 0
-  - _info: B) Isaac Newton
+  - _info: Isaac Newton
     _isCorrect: 0
-  - _info: C) William Herschel
+  - _info: William Herschel
     _isCorrect: 1
-  - _info: D) Nicolaus Copernicus
+  - _info: Nicolaus Copernicus
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

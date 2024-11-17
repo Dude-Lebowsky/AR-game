@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "What percentage of the Solar System\u2019s mass does the Sun contain?"
   _answers:
-  - _info: A) 50%
+  - _info: 50%
     _isCorrect: 0
-  - _info: B) 75%
+  - _info: 75%
     _isCorrect: 0
-  - _info: C) 99.8%
+  - _info: 99.8%
     _isCorrect: 1
-  - _info: D) 100%
+  - _info: 100%
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

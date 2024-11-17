@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "How long is one day on Mercury compared to Earth\u2019s day?"
   _answers:
-  - _info: A) 24 hours
+  - _info: 24 hours
     _isCorrect: 0
-  - _info: B) 30 hours
+  - _info: 30 hours
     _isCorrect: 0
-  - _info: C) 59 Earth days
+  - _info: 59 Earth days
     _isCorrect: 1
-  - _info: D) 88 Earth days
+  - _info: 88 Earth days
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

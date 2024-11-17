@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "What causes Earth\u2019s seasons?"
   _answers:
-  - _info: A) Distance from the Sun
+  - _info: Distance from the Sun
     _isCorrect: 0
-  - _info: "B) Shape of Earth\u2019s orbit"
+  - _info: "Shape of Earth\u2019s orbit"
     _isCorrect: 0
-  - _info: "C) Earth\u2019s axial tilt"
+  - _info: "Earth\u2019s axial tilt"
     _isCorrect: 1
-  - _info: D) Speed of rotation
+  - _info: Speed of rotation
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

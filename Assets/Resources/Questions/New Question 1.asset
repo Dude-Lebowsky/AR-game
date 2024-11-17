@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "How much of Earth\u2019s surface is covered by water?"
   _answers:
-  - _info: A) 50%
+  - _info: 50%
     _isCorrect: 0
-  - _info: B) 60%
+  - _info: 60%
     _isCorrect: 0
-  - _info: C) 70%
+  - _info: 70%
     _isCorrect: 1
-  - _info: D) 80%
+  - _info: 80%
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

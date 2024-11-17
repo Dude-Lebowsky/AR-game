@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "What is the main reason Mercury\u2019s surface has so many craters?"
   _answers:
-  - _info: A) Volcanic activity
+  - _info: Volcanic activity
     _isCorrect: 0
-  - _info: B) Lack of atmosphere
+  - _info: Lack of atmosphere
     _isCorrect: 1
-  - _info: C) Strong winds
+  - _info: Strong winds
     _isCorrect: 0
-  - _info: D) Earthquakes
+  - _info: Earthquakes
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

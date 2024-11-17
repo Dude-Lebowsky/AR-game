@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "Which of the following is a unique feature of Neptune\u2019s atmosphere?"
   _answers:
-  - _info: A) It has strong hurricanes
+  - _info: It has strong hurricanes
     _isCorrect: 0
-  - _info: B) It has the strongest winds in the Solar System
+  - _info: It has the strongest winds in the Solar System
     _isCorrect: 1
-  - _info: C) It has a strong magnetic field
+  - _info: It has a strong magnetic field
     _isCorrect: 0
-  - _info: D) It has a thick layer of clouds
+  - _info: It has a thick layer of clouds
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

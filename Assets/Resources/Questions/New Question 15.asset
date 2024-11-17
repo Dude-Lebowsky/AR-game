@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: Which rover landed on Mars in 2012?
   _answers:
-  - _info: A) Spirit
+  - _info: Spirit
     _isCorrect: 0
-  - _info: B) Opportunity
+  - _info: Opportunity
     _isCorrect: 0
-  - _info: C) Curiosity
+  - _info: Curiosity
     _isCorrect: 1
-  - _info: D) Sojourner
+  - _info: Sojourner
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "What is Mercury\u2019s orbital period around the Sun?"
   _answers:
-  - _info: A) 88 Earth days
+  - _info: 88 Earth days
     _isCorrect: 1
-  - _info: B) 225 Earth days
+  - _info: 225 Earth days
     _isCorrect: 0
-  - _info: C) 365 Earth days
+  - _info: 365 Earth days
     _isCorrect: 0
-  - _info: D) 687 Earth days
+  - _info: 687 Earth days
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "What is Mars\u2019 average surface temperature?"
   _answers:
-  - _info: "A) -10\xB0C"
+  - _info: "-10\xB0C"
     _isCorrect: 0
-  - _info: "B) -63\xB0C"
+  - _info: "-63\xB0C"
     _isCorrect: 1
-  - _info: "C) 0\xB0C"
+  - _info: "0\xB0C"
     _isCorrect: 0
-  - _info: "D) 20\xB0C"
+  - _info: "20\xB0C"
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

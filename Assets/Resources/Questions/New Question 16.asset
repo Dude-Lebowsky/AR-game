@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "Mars\u2019 surface has a large canyon called:"
   _answers:
-  - _info: A) Grand Canyon
+  - _info: Grand Canyon
     _isCorrect: 0
-  - _info: B) Valles Marineris
+  - _info: Valles Marineris
     _isCorrect: 1
-  - _info: C) Hellas Planitia
+  - _info: Hellas Planitia
     _isCorrect: 0
-  - _info: D) Isidis Basin
+  - _info: Isidis Basin
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

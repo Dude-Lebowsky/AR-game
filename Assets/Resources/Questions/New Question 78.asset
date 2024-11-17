@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: Does Mercury have any moons?
   _answers:
-  - _info: A) Yes
+  - _info: Yes
     _isCorrect: 0
-  - _info: B) No
+  - _info: No
     _isCorrect: 1
   _useTimer: 1
   _timer: 10

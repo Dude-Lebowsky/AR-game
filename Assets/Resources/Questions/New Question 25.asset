@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "What is the name of Jupiter\u2019s largest moon?"
   _answers:
-  - _info: A) Io
+  - _info: Io
     _isCorrect: 0
-  - _info: B) Ganymede
+  - _info: Ganymede
     _isCorrect: 1
-  - _info: C) Europa
+  - _info: Europa
     _isCorrect: 0
-  - _info: D) Callisto
+  - _info: Callisto
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

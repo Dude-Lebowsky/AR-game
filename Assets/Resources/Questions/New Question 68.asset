@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: What is the name of the outermost layer of the Sun?
   _answers:
-  - _info: A) Core
+  - _info: Core
     _isCorrect: 0
-  - _info: B) Chromosphere
+  - _info: Chromosphere
     _isCorrect: 0
-  - _info: C) Photosphere
+  - _info: Photosphere
     _isCorrect: 0
-  - _info: D) Corona
+  - _info: Corona
     _isCorrect: 1
   _useTimer: 1
   _timer: 10

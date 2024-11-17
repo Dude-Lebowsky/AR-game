@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: Neptune is the ______ planet from the Sun.
   _answers:
-  - _info: A) 6th
+  - _info: 6th
     _isCorrect: 0
-  - _info: B) 7th
+  - _info: 7th
     _isCorrect: 0
-  - _info: C) 8th
+  - _info: 8th
     _isCorrect: 1
-  - _info: D) 9th
+  - _info: 9th
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

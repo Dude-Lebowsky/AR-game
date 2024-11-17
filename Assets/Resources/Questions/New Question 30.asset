@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "Jupiter\u2019s magnetic field is how many times stronger than Earth\u2019s?"
   _answers:
-  - _info: A) 5 times
+  - _info: 5 times
     _isCorrect: 0
-  - _info: B) 10 times
+  - _info: 10 times
     _isCorrect: 0
-  - _info: C) 14 times
+  - _info: 14 times
     _isCorrect: 1
-  - _info: D) 20 times
+  - _info: 20 times
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

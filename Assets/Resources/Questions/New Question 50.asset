@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: What is the axial tilt of Uranus?
   _answers:
-  - _info: A) 0 degrees
+  - _info: 0 degrees
     _isCorrect: 0
-  - _info: B) 23.5 degrees
+  - _info: 23.5 degrees
     _isCorrect: 0
-  - _info: C) 45 degrees
+  - _info: 45 degrees
     _isCorrect: 0
-  - _info: D) 98 degrees
+  - _info: 98 degrees
     _isCorrect: 1
   _useTimer: 1
   _timer: 10

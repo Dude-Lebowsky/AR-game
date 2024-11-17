@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: What is Saturn primarily known for?
   _answers:
-  - _info: A) Its size
+  - _info: Its size
     _isCorrect: 0
-  - _info: B) Its moons
+  - _info: Its moons
     _isCorrect: 0
-  - _info: C) Its rings
+  - _info: Its rings
     _isCorrect: 1
-  - _info: D) Its color
+  - _info: Its color
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "Which spacecraft sent back detailed images of Saturn\u2019s rings?"
   _answers:
-  - _info: A) Voyager 1
+  - _info: Voyager 1
     _isCorrect: 0
-  - _info: B) Cassini
+  - _info: Cassini
     _isCorrect: 1
-  - _info: C) Hubble
+  - _info: Hubble
     _isCorrect: 0
-  - _info: D) Galileo
+  - _info: Galileo
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

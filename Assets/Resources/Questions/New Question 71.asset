@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "What is Mercury\u2019s position in the Solar System relative to the Sun?"
   _answers:
-  - _info: A) 1st
+  - _info: 1st
     _isCorrect: 1
-  - _info: B) 2nd
+  - _info: 2nd
     _isCorrect: 0
-  - _info: C) 3rd
+  - _info: 3rd
     _isCorrect: 0
-  - _info: D) 4th
+  - _info: 4th
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

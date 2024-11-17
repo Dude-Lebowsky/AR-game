@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "What are Saturn\u2019s rings mostly made of?"
   _answers:
-  - _info: A) Dust
+  - _info: Dust
     _isCorrect: 0
-  - _info: B) Rocks
+  - _info: Rocks
     _isCorrect: 0
-  - _info: C) Water ice
+  - _info: Water ice
     _isCorrect: 1
-  - _info: D) Metal
+  - _info: Metal
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

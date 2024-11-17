@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: Which planet has the greatest temperature variation between day and night?
   _answers:
-  - _info: A) Mercury
+  - _info: Mercury
     _isCorrect: 1
-  - _info: B) Venus
+  - _info: Venus
     _isCorrect: 0
-  - _info: C) Mars
+  - _info: Mars
     _isCorrect: 0
-  - _info: D) Saturn
+  - _info: Saturn
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: What is the largest layer of Earth by volume?
   _answers:
-  - _info: A) Crust
+  - _info: Crust
     _isCorrect: 0
-  - _info: B) Mantle
+  - _info: Mantle
     _isCorrect: 1
-  - _info: C) Outer core
+  - _info: Outer core
     _isCorrect: 0
-  - _info: D) Inner core
+  - _info: Inner core
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

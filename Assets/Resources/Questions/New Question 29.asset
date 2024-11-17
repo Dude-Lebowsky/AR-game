@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "What phenomenon is common near Jupiter\u2019s poles?"
   _answers:
-  - _info: A) Hurricanes
+  - _info: Hurricanes
     _isCorrect: 0
-  - _info: B) Lightning storms
+  - _info: Lightning storms
     _isCorrect: 0
-  - _info: C) Auroras
+  - _info: Auroras
     _isCorrect: 1
-  - _info: D) Meteor showers
+  - _info: Meteor showers
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

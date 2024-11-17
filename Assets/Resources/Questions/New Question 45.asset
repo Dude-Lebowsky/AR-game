@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "What is Uranus\u2019 position in the Solar System relative to the Sun?"
   _answers:
-  - _info: A) 5th
+  - _info: 5th
     _isCorrect: 0
-  - _info: B) 6th
+  - _info: 6th
     _isCorrect: 0
-  - _info: C) 7th
+  - _info: 7th
     _isCorrect: 1
-  - _info: D) 8th
+  - _info: 8th
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

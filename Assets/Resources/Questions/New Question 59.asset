@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "What is Neptune\u2019s atmosphere primarily made of?"
   _answers:
-  - _info: A) Carbon dioxide and nitrogen
+  - _info: Carbon dioxide and nitrogen
     _isCorrect: 0
-  - _info: B) Hydrogen and helium
+  - _info: Hydrogen and helium
     _isCorrect: 1
-  - _info: C) Oxygen and water vapor
+  - _info: Oxygen and water vapor
     _isCorrect: 0
-  - _info: D) Iron and nickel
+  - _info: Iron and nickel
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

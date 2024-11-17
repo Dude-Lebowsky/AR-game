@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: How many moons does Uranus have?
   _answers:
-  - _info: A) 10
+  - _info: 10
     _isCorrect: 0
-  - _info: B) 27
+  - _info: 27
     _isCorrect: 1
-  - _info: C) 53
+  - _info: 53
     _isCorrect: 0
-  - _info: D) 79
+  - _info: 79
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

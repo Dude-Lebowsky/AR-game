@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "What is the name of Earth\u2019s only natural satellite?"
   _answers:
-  - _info: A) Moon
+  - _info: Moon
     _isCorrect: 1
-  - _info: B) Phobos
+  - _info: Phobos
     _isCorrect: 0
-  - _info: C) Deimos
+  - _info: Deimos
     _isCorrect: 0
-  - _info: D) Europa
+  - _info: Europa
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

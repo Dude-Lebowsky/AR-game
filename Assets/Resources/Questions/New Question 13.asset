@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: What is the name of the largest volcano on Mars?
   _answers:
-  - _info: A) Olympus Mons
+  - _info: Olympus Mons
     _isCorrect: 1
-  - _info: B) Mount Everest
+  - _info: Mount Everest
     _isCorrect: 0
-  - _info: C) Mauna Kea
+  - _info: Mauna Kea
     _isCorrect: 0
-  - _info: D) Vesuvius
+  - _info: Vesuvius
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

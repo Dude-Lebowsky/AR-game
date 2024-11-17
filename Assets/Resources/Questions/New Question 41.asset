@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: 'Uranus is unique in that it rotates:'
   _answers:
-  - _info: A) Quickly
+  - _info: Quickly
     _isCorrect: 0
-  - _info: B) Backwards
+  - _info: Backwards
     _isCorrect: 0
-  - _info: C) On its side
+  - _info: On its side
     _isCorrect: 1
-  - _info: D) Very slowly
+  - _info: Very slowly
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

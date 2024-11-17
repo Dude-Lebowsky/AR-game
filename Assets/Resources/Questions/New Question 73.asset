@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: Mercury is named after which Roman god?
   _answers:
-  - _info: A) God of War
+  - _info: God of War
     _isCorrect: 0
-  - _info: B) God of the Sea
+  - _info: God of the Sea
     _isCorrect: 0
-  - _info: C) God of Travel
+  - _info: God of Travel
     _isCorrect: 1
-  - _info: D) God of Agriculture
+  - _info: God of Agriculture
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

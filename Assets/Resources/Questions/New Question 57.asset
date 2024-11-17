@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: 'Neptune has a notable storm system called:'
   _answers:
-  - _info: A) Great Red Spot
+  - _info: Great Red Spot
     _isCorrect: 0
-  - _info: B) Blue Storm
+  - _info: Blue Storm
     _isCorrect: 0
-  - _info: C) Dark Spot
+  - _info: Dark Spot
     _isCorrect: 1
-  - _info: D) Polar Vortex
+  - _info: Polar Vortex
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

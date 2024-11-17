@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "What is the name of Saturn\u2019s largest moon?"
   _answers:
-  - _info: A) Titan
+  - _info: Titan
     _isCorrect: 1
-  - _info: B) Enceladus
+  - _info: Enceladus
     _isCorrect: 0
-  - _info: C) Europa
+  - _info: Europa
     _isCorrect: 0
-  - _info: D) Ganymede
+  - _info: Ganymede
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

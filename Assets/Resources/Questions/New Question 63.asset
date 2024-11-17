@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: What is the approximate surface temperature of the Sun?
   _answers:
-  - _info: "A) 5,500\xB0C"
+  - _info: "5,500\xB0C"
     _isCorrect: 1
-  - _info: "B) 10,000\xB0C"
+  - _info: "10,000\xB0C"
     _isCorrect: 0
-  - _info: "C) 15,000\xB0C"
+  - _info: "15,000\xB0C"
     _isCorrect: 0
-  - _info: "D) 20,000\xB0C"
+  - _info: "20,000\xB0C"
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

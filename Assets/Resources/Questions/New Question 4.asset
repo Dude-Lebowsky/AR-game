@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "Earth\u2019s atmosphere is primarily composed of:"
   _answers:
-  - _info: A) Oxygen
+  - _info: Oxygen
     _isCorrect: 0
-  - _info: B) Hydrogen
+  - _info: Hydrogen
     _isCorrect: 0
-  - _info: C) Carbon dioxide
+  - _info: Carbon dioxide
     _isCorrect: 0
-  - _info: D) Nitrogen
+  - _info: Nitrogen
     _isCorrect: 1
   _useTimer: 1
   _timer: 10

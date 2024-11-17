@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "The Sun\u2019s energy is produced by what process?"
   _answers:
-  - _info: A) Nuclear fission
+  - _info: Nuclear fission
     _isCorrect: 0
-  - _info: B) Chemical combustion
+  - _info: Chemical combustion
     _isCorrect: 0
-  - _info: C) Nuclear fusion
+  - _info: Nuclear fusion
     _isCorrect: 1
-  - _info: D) Electromagnetic reactions
+  - _info: Electromagnetic reactions
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

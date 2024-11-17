@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: What will the Sun become at the end of its lifecycle?
   _answers:
-  - _info: A) Black hole
+  - _info: Black hole
     _isCorrect: 0
-  - _info: B) Red giant
+  - _info: Red giant
     _isCorrect: 0
-  - _info: C) White dwarf
+  - _info: White dwarf
     _isCorrect: 1
-  - _info: D) Neutron star
+  - _info: Neutron star
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

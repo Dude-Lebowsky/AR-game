@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "Mercury\u2019s atmosphere is primarily composed of:"
   _answers:
-  - _info: A) Hydrogen
+  - _info: Hydrogen
     _isCorrect: 0
-  - _info: B) Carbon dioxide
+  - _info: Carbon dioxide
     _isCorrect: 0
-  - _info: C) Nitrogen
+  - _info: Nitrogen
     _isCorrect: 0
-  - _info: D) It has no significant atmosphere
+  - _info: It has no significant atmosphere
     _isCorrect: 1
   _useTimer: 1
   _timer: 10

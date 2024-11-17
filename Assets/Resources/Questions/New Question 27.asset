@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: What is the average rotation period of Jupiter (a day on Jupiter)?
   _answers:
-  - _info: A) 10 hours
+  - _info: 10 hours
     _isCorrect: 1
-  - _info: B) 24 hours
+  - _info: 24 hours
     _isCorrect: 0
-  - _info: C) 12 hours
+  - _info: 12 hours
     _isCorrect: 0
-  - _info: D) 30 hours
+  - _info: 30 hours
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

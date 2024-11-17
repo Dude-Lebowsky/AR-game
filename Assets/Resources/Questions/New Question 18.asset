@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "What are Mars\u2019 two moons named?"
   _answers:
-  - _info: A) Phobos and Deimos
+  - _info: Phobos and Deimos
     _isCorrect: 1
-  - _info: B) Ganymede and Callisto
+  - _info: Ganymede and Callisto
     _isCorrect: 0
-  - _info: C) Io and Europa
+  - _info: Io and Europa
     _isCorrect: 0
-  - _info: D) Titan and Enceladus
+  - _info: Titan and Enceladus
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

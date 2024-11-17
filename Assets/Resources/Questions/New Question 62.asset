@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: What is the primary element that makes up the Sun?
   _answers:
-  - _info: A) Oxygen
+  - _info: Oxygen
     _isCorrect: 0
-  - _info: B) Hydrogen
+  - _info: Hydrogen
     _isCorrect: 1
-  - _info: C) Helium
+  - _info: Helium
     _isCorrect: 0
-  - _info: D) Carbon
+  - _info: Carbon
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

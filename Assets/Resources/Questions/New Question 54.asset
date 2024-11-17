@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: How long does it take Neptune to orbit the Sun?
   _answers:
-  - _info: A) 165 Earth years
+  - _info: 165 Earth years
     _isCorrect: 1
-  - _info: B) 88 Earth years
+  - _info: 88 Earth years
     _isCorrect: 0
-  - _info: C) 225 Earth years
+  - _info: 225 Earth years
     _isCorrect: 0
-  - _info: D) 365 Earth years
+  - _info: 365 Earth years
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

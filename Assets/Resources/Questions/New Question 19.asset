@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: What color is the Martian sky during the day?
   _answers:
-  - _info: A) Blue
+  - _info: Blue
     _isCorrect: 0
-  - _info: B) Yellow
+  - _info: Yellow
     _isCorrect: 0
-  - _info: C) Pinkish-red
+  - _info: Pinkish-red
     _isCorrect: 1
-  - _info: D) Black
+  - _info: Black
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

@@ -271,12 +271,9 @@ public class GameManager : MonoBehaviour
     void LoadQuestions()
     {
         Object[] objs = Resources.LoadAll("Questions", typeof(Question));
-        _questions = new Question[objs.Length];
-        for (int i = 0; i < objs.Length; i++)
-        {
-            _questions[i] = (Question)objs[i];
-        }
+        _questions = objs.Cast<Question>().OrderBy(q => Random.value).Take(10).ToArray();
     }
+
 
     #endregion
 

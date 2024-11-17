@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: "Which is the highest point on Earth\u2019s surface?"
   _answers:
-  - _info: A) K2
+  - _info: K2
     _isCorrect: 0
-  - _info: B) Mount Everest
+  - _info: Mount Everest
     _isCorrect: 1
-  - _info: C) Mount Kilimanjaro
+  - _info: Mount Kilimanjaro
     _isCorrect: 0
-  - _info: D) The Andes
+  - _info: The Andes
     _isCorrect: 0
   _useTimer: 1
   _timer: 10

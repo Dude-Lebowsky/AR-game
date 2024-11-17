@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: Which planet is the largest in our Solar System?
   _answers:
-  - _info: A) Earth
+  - _info: Earth
     _isCorrect: 0
-  - _info: B) Mars
+  - _info: Mars
     _isCorrect: 0
-  - _info: C) Jupiter
+  - _info: Jupiter
     _isCorrect: 1
-  - _info: D) Saturn
+  - _info: Saturn
     _isCorrect: 0
   _useTimer: 1
   _timer: 10
