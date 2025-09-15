@@ -81,37 +81,12 @@ The project utilized Agile Scrum methodology throughout the development process:
 - Developed custom AR interaction systems for intuitive user experience
 - Optimized AR performance for mobile hardware constraints
 
-### Mathematical Programming
-- Implemented complex trigonometric calculations for realistic orbital motion
-- Developed procedural animation systems using Unity's component architecture
-- Created efficient algorithms for real-time 3D path rendering
-- Integrated physics-based simulations with AR tracking systems
-
-### Mobile Optimization
-- Performance tuning for Android mobile platforms
-- Memory management optimization for AR applications
-- Battery life consideration in AR rendering pipeline
-- Touch input integration with AR interaction systems
-
-## Educational & Professional Impact
-
-This project demonstrates comprehensive understanding of:
-- **Emerging Technologies**: Practical application of AR/VR technologies
-- **Software Engineering**: Professional development practices using Scrum methodology
-- **3D Graphics Programming**: Advanced mathematical and visual programming skills
-- **Mobile Development**: Cross-platform mobile application development
-- **Project Management**: Agile development methodology implementation
-- **Collaborative Development**: Team-based software development practices
-
 ## Technical Skills Demonstrated
 
-- **Unity 3D Development**: Advanced game engine utilization
 - **Augmented Reality**: ARCore and ARFoundation implementation
 - **C# Programming**: Object-oriented programming and Unity scripting
-- **3D Mathematics**: Trigonometry and linear algebra application
 - **Mobile Optimization**: Android-specific performance tuning
 - **Version Control**: Git workflow management with multimedia assets
 - **Agile Methodology**: Scrum framework implementation and team collaboration
-- **Cross-Platform Development**: Multi-device AR application deployment
 
 This project represents a comprehensive exploration of modern AR development technologies combined with professional software development practices, showcasing both technical proficiency and collaborative project management skills in an academic setting.
